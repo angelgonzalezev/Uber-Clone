@@ -28,7 +28,7 @@ Uber clone built with react native and Typescript. You can select the place of o
 
 👉  [Google places API for real navigations!](https://developers.google.com/maps/documentation/?hl=es_419#places)
 
-##TODO:
+## TO DO:
 -  It is necessary to fix zoom out in map wht two marks are selected.
 - It is necessary to modify icon image to svg icon as component.
 - I want to implement [React Native Elements](https://reactnativeelements.com/) to get icons.
