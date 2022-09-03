@@ -13,13 +13,6 @@ const MapComponent = () => {
   const mapRef = useRef<any>();
   const dispatch = useDispatch();
 
-  /*
-  TO DO:
-
-  It is necessary to fix zoom out in map wht two marks are selected
-
-  */
-
   useEffect(()=>{
     if (!origin || !destination) return;
     //Zoom and fit to markers -> Doesnt work

@@ -5,10 +5,6 @@ import { useSelector } from 'react-redux';
 import tw from 'twrnc';
 import { selectOrigin } from '../../../../redux/slices/navSlice';
 
-/*
-TODO:
-· Modify icon image to svg icon as component
-*/
 
 const data = [
   {

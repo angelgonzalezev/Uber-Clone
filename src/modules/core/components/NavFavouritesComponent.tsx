@@ -4,10 +4,6 @@ import { useNavigation } from '@react-navigation/native'
 import tw from 'twrnc'
 import {Icon} from 'react-native-elements'
 
-/*
-TODO:
-- It is necessary to modify data.icon into a svg icon element instead of image
-*/
 
 const data = [
   {
